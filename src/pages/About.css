@@ -40,3 +40,15 @@
   width: 500px;
   height: auto;
 }
+.my_text
+{
+    font-family: "American Typewriter", serif;
+    font-size:      25px;
+   
+}
+.mya_text
+{
+    font-family: "American Typewriter", serif;
+    font-size:      30px;
+    font-weight:    bold;
+}
